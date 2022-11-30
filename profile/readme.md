@@ -5,9 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/A-C-Concepts/Froggy">
     <img src="vignette.jpg" alt="Vignette" width="auto" height="500px">
-  </a>
 
 <h3 align="center">ACR Aluminium Horseshoes</h3>
 
