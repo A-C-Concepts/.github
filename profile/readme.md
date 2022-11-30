@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./vignette.jpg" alt="Vignette" width="auto" height="500px">
+    <img src="https://raw.githubusercontent.com/A-C-Concepts/.github/main/profile/vignette.jpg" alt="Vignette" width="auto" height="500px">
 
 <h3 align="center">ACR Aluminium Horseshoes</h3>
 
