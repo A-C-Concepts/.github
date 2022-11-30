@@ -2,17 +2,11 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-  [![Netlify Status][netlify-shield]][netlify-url]
-  [![Issues][issues-shield]][issues-url]
-  [![Coffee][coffee-shield]][coffee-url]
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/A-C-Concepts/Froggy">
-    <img src="img/logo.png" alt="Logo" width="auto" height="150px">
+    <img src="vignette.jpg" alt="Vignette" width="auto" height="500px">
   </a>
 
 <h3 align="center">ACR - Froggy Three.js Website</h3>
